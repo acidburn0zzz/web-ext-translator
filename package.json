@@ -47,7 +47,7 @@
     "html-webpack-plugin": "2.29.0",
     "iso-639": "^0.2.2",
     "iso-639-1": "^2.0.3",
-    "jszip": "^3.1.5",
+    "jszip": "^3.7.0",
     "markdown-it": "^8.4.1",
     "murmurhash3js": "^3.0.1",
     "object-assign": "4.1.1",
